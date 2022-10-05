@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤩 My name is Anton, I'm 20 years old, I've been doing web development for less than a year.<br>I'm Frontend Developer with Vue.js Nuxt.js.<br>I am constantly learning and learning something new, I always
+🤩 My name is Anton, I'm 20 years old, I've been doing web development for less than a year.<br>I'm Frontend Developer with Vue.js Nuxt.js.<br>I am constantly learning and learning something new.
 
 
 ## 🌐 Socials:
