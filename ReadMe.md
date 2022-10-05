@@ -1,6 +1,6 @@
 # 💫 About Me:
 🤩 My name is Anton, I'm 20 years old, I've been doing web development for less than a year. <br>I'm Frontend Developer with Vue.js Nuxt.js. <br>I am constantly learning and learning something new, I always
-
+<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/101654796/194180032-6c3ecba0-1c62-4846-9e98-eb358c8c42fe.png)">
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Sheddy#3735) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr.l3nsk1) 
